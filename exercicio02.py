@@ -1,9 +1,9 @@
 # Exercício 2
 # Adapte o código para gerar sua própria mensagem e adicione comentários para mostrar o que ele faz.
 
-print("Hello World!")
-
-
+print(
+    "Eu estou adorando Python! Que curso legal. Eu amo aprender coisas novas.")
+# Ele está mostrando uma mensagem na tela.
 
 """Ajuda! Meu código não funciona!
 
