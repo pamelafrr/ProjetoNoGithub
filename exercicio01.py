@@ -36,3 +36,6 @@ Certifique-se de verificar os seguintes itens:
 O print não tem letra maiúscula;
 O texto da string é cercado por aspas duplas (“) ou aspas simples (‘);
 A string (incluindo aspas) é cercada por parênteses."""
+
+
+print(" testando um novo commit ")
