@@ -29,9 +29,6 @@ print("Hello World!")
 # O que aconteceria se o código print("I love Computing" fosse executado?
 
 # Responda:
-
-
-
 """Ajuda! Meu código não funciona!
 
 Certifique-se de verificar os seguintes itens:
