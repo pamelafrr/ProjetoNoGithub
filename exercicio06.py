@@ -7,14 +7,17 @@
 
 name1 = "Axl"
 name2 = "Slash"
+name3 = "Duff"
+name4 = "Izzy"
 
 # Adicione mais 2 variáveis para armazenar 'Duff' e 'Izzy'
+# Adicionados. 
 
 #Esta linha usa concatenação para juntar as variáveis com a string 'and' para formar uma frase.
 
 #Complete a linha para gerar todas as variáveis
 
-print(name1 + " and " + name2 + " and ")
+print(name1 + " and " + name2 + " and " + name3 + " and " + name4) 
 
 
 """Ajuda! Meu código não funciona!
