@@ -2,10 +2,10 @@
 #Tarefa - Prever e Executar
 #Olhe para o código de exemplo, estude-o cuidadosamente. Escreva uma previsão do que ele fará quando for executado. Sua previsão deve ser adicionada ao código como comentários. Você deve usar os termos-chave executar, produzir e string em sua previsão.
 
-print("Hello World!")
+print("Hello World!") 
 
 # Minha previsão, adicione sua previsão como comentário
-# Remova esse comentário e escreva sua previsão
+# Minha previsão é que apos o print ele meu projeto será mostrado na tela ao lado
 
 # Tarefa - Investigar
 # Use comentários para responder às perguntas de investigação no código de exemplo.

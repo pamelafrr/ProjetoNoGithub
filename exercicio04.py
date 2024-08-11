@@ -1,6 +1,6 @@
 # Exercício 4
 # Tarefa - Prever e Executar
-# Olhe para cada exemplo, estude-o cuidadosamente. Escreva uma previsão do que ele fará quando for executado. Sua previsão deve ser adicionada ao código como comentários. Você deve usar os termos-chave variável, atribuir e concatenar em sua previsão.
+# Olhe para cada exemplo, estude-o cuidadosamente. Escreva uma previsão do que ele fará quando for executado. Sua previsão deve ser adicionada ao código como comentários. Você deve usar os termos-chave variável, atribuir e concatenar em sua previsão. 
 
 #Prever e executar o exemplo 1
 

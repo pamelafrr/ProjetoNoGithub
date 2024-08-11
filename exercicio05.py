@@ -13,19 +13,19 @@ print(fName)
 
 #Identifique uma variável no código
 
-# Resposta:
+# Resposta: fName e lName são as variaveis 
 
 #Identifique uma string no código
 
-# Resposta:
+# Resposta: "Colley" é uma string
 
-# A linha 9 foi alterada para lName = "Thorpe". Como isso afeta a saída?
+# A linha 9 foi alterada para lName = "Thorpe". Como isso afeta a saída? 
 
-#Resposta
+#Resposta: Se eu não printar lName ele continuara com a String colley. caso eu print o lName ele ira modificar a saída para "Trorpe"
 
 # A linha 7 foi alterada para fName = "Mrs". Como isso afeta a saída?
 
-# Resposta
+# Resposta: ele ira me mostrar na saída a string "Mrs"
 
 
 ### Exemplo código 2
@@ -40,7 +40,7 @@ print(total3)
 
 # O que será gerado pelo programa?
 
-# Responda
+# Responda: será gerado/mostrado o valor da conta matematica 
 
 
 ### Exemplo código 3
@@ -52,6 +52,7 @@ name4 = "Rachel"
 name5 = "Chandler" 
 
 print(name1 + " e " + name4) 
+print (name1 + " e " + name5)
 
 print(name3) 
 
@@ -59,19 +60,20 @@ name3 = "Phoebe"
 
 # Quantas variáveis são usadas no programa?
 
-# Responda
+# Responda: 5 variavéis 
 
 # Qual seria o impacto de mudar print(name1, " e ", name4) para print(name1, " e ", name5) ?
 
-# Responda
+# Responda: Alteraria a string name4 para a name5. Ficando Ross e Chandler
 
-# Qual é o propósito do símbolo '+' em print(name1 + " e " + name4)
+# Qual é o propósito do símbolo '+' em print(name1 + " e " + name4) 
 
-# Responda
+# Responda: Proposito do simobolo '+' é a junção das strigs name1 e name4
 
 # A linha print(name3) é adicionada ao final do código. Explique o que ele fará.
 
-# Responda
+# Responda: ela será representada na tela o que na linha do nome3. Que é: name3 = "Joey". Então ele me mostrará na tela o nomme Joey. 
+
 
 
 """Ajuda! Meu código não funciona!
