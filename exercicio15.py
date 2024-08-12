@@ -6,3 +6,11 @@
 # Faça um programa que calcule o valor total que os três amigos levaram para o cinema. 
 
 # Escreva seu código aqui
+
+amigo1 = 100.00
+amigo2 = amigo1 * 2.5
+amigo3 = (amigo1+amigo2)/2
+
+total = amigo1+amigo2+amigo3
+
+print("Total: ", total)
