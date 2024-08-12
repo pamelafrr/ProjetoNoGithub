@@ -9,6 +9,6 @@ mangueira_blue = 1.2
 mangueira_yellow = 1 
 
 time = 4,2 / 60
-time = 252 minutos 
+time = 252 
 
 print(time)
