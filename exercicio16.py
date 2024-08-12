@@ -6,11 +6,11 @@
 # Faça um programa que calcule o valor total que as quatro amigas levaram para o shopping. 
 
 # Escreva seu código aqui
-# amiga1 = 240
-# amiga2 = 240/3*2 = 160
-# amiga3 = 480
-# amiga4 = 640
+amiga1 = 240
+amiga2 = 240/3*2
+amiga3 = 480
+amiga4 = 640
 
-# soma 4amigas = (amiga1 + amiga2 + amiga3 + amiga4)
+soma_4amigas = (amiga1 + amiga2 + amiga3 + amiga4)
 
-# print (soma 4amigas)
+print (soma_4amigas)
