@@ -8,28 +8,31 @@
 # Por fim, preveja qual vai ser o valor da variável time, escrevendo a resposta como comentário
 
 # Adicione seu comentário aqui
+# o tempo das duas mangueiras juntas é de 2.7. 
 
 time_green = 1.5
 time_blue = 1.2
 
 # Adicione seu comentário aqui
+# O tempo em minuto das 2 é de 162 minutos
 
-minutes_green = 60 * time_green
-minutes_blue = 60 * time_blue
-
-# Adicione seu comentário aqui
-
-rate_hose_green = 1 / minutes_green
-rate_hose_blue = 1 / minutes_blue
+minutes_green = 60 * 1.5
+minutes_blue = 60 * 1.2
 
 # Adicione seu comentário aqui
+# 60*1,5 é 90minutos e 60*1,2 é 72 minutos 
 
-rate_host_combined = rate_hose_green + rate_hose_blue
+rate_hose_green = 1 / 90
+rate_hose_blue = 1 / 72
 
 # Adicione seu comentário aqui
+# soma-se os minutos das duas mangueiras 
+rate_host_combined = 90 + 72
 
-time = 1 / rate_host_combined
+# Adicione seu comentário aqui
+# o tempo de cada mangueira é de 162 minutos 
+time = 1 / 162
 
 # Escreva neste comentário qual será o valor de time no final da execução do código
 
-# Resposta
+# Resposta: 162 minutos 
