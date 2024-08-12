@@ -13,3 +13,10 @@
 
 # Escreva seu código aqui
 
+b = input("informe a base") 
+h = input("informe a altura") 
+
+A = int(b) * int(h)
+A = A/2
+
+print (A) 
