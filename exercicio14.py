@@ -14,3 +14,11 @@
 # h = altura
 
 # Escreva seu código aqui#
+
+c = input("informe o comprimento") 
+l = input("informe a largura") 
+h = input("informe a altura")
+
+V = int(c) * int(l) * int(h) 
+
+print (V) 
