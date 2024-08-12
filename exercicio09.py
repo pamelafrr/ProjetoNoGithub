@@ -8,15 +8,15 @@
 time_green = 1.5
 time_green= 1.5
 
-minutes_green = 60 * 90
-minutes_blue = 60 * time_green
+minutes_green = 60 * 1,5
+minutes_blue = 60 * 1,5
 
 rate_hose_green = 1 / 90
-rate_hose_green = 1 / minutes_blue
+rate_hose_green = 1 / 90
 
-rate_host_combined = 2*180 + 180
+rate_host_combined = 2*90 + 90
 
-time = 1 / rate_host_combined
+time = 1 / 270
 
 print(time)
 
