@@ -12,3 +12,11 @@
 # l = largura
 
 # Escreva seu código aqui
+
+c = input("informe o comprimento") 
+l = input("informe a largura") 
+
+A = int(c) * int(l)
+
+
+print (A) 
